@@ -1,0 +1,10 @@
+train: /home/waving666/FruitsProject/dataset/fruits_train.txt
+val: /home/waving666/FruitsProject/dataset/fruits_validation.txt
+test: /home/waving666/FruitsProject/dataset/fruits_test.txt
+
+nc: 19
+
+names: ['apple', 'banana', 'broccoli', 'cabbage', 'carrot', 'cucumber',
+        'grape', 'grapefruit', 'lemon', 'mango', 'orange', 'peach',
+        'pear', 'pineapple', 'pomegranate', 'potato', 'strawberry',
+        'tomato', 'watermelon']
