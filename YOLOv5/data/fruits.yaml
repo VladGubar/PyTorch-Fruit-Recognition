@@ -1,6 +1,6 @@
-train: /home/hubar_uladzislau/PyTorch-Fruit-Recognition/dataset/fruits_train.txt
-val: /home/hubar_uladzislau/PyTorch-Fruit-Recognition/dataset/fruits_validation.txt
-test: /home/hubar_uladzislau/PyTorch-Fruit-Recognition/dataset/fruits_test.txt
+train: /content/PyTorch-Fruit-Recognition/dataset/fruits_train.txt
+val: /content/PyTorch-Fruit-Recognition/dataset/fruits_validation.txt
+test: /content/PyTorch-Fruit-Recognition/dataset/fruits_test.txt
 
 nc: 19
 
