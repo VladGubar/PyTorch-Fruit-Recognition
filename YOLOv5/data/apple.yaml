@@ -1,0 +1,7 @@
+train: /content/PyTorch-Fruit-Recognition/Apple/apple_train.txt
+val: /content/PyTorch-Fruit-Recognition/Apple/apple_validation.txt
+test: /content/PyTorch-Fruit-Recognition/Apple/apple_test.txt
+
+nc: 1
+
+names: ['apple']
