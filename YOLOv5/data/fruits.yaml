@@ -4,7 +4,7 @@ test: /content/PyTorch-Fruit-Recognition/dataset/fruits_test.txt
 
 nc: 19
 
-names: ['strawberry', 'pomegranate', 'potato', 'carrot', 'tomato',
-        'watermelon', 'grape', 'cucumber', 'banana', 'grapefruit',
-        'mango', 'apple', 'lemon', 'orange', 'cabbage', 'broccoli',
-        'peach', 'pear', 'pineapple']
+names: ['apple', 'banana', 'broccoli', 'cabbage', 'carrot',
+        'cucumber', 'grape', 'grapefruit', 'lemon', 'mango',
+        'orange', 'peach', 'pear', 'pineapple', 'pomegranate',
+        'potato', 'strawberry', 'tomato', 'watermelon']
